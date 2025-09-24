@@ -1,0 +1,4 @@
+plaid-python
+plaid
+quandl
+fredapi
